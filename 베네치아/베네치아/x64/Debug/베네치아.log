@@ -1,0 +1,8 @@
+﻿  GameManager.cpp
+C:\Users\A-03\Desktop\황원식\베네치아\베네치아\MapDraw.h(28,17): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\A-03\Desktop\황원식\베네치아\베네치아\MapDraw.h(28,20): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  Main.cpp
+C:\Users\A-03\Desktop\황원식\베네치아\베네치아\MapDraw.h(28,17): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\A-03\Desktop\황원식\베네치아\베네치아\MapDraw.h(28,20): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  코드를 생성하고 있습니다...
+  베네치아.vcxproj -> C:\Users\A-03\Desktop\황원식\베네치아\x64\Debug\베네치아.exe
